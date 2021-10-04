@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline-block">
     <img align="center" alt="we-can-code-it-pic" height="200" src="https://www.shecodes.io/assets/stickers/we%20can%20code%20it-6845671e9a08acc18335e6dd43cf16a4f6cfda13d0fef3d0cc5528c2214308ff.gif">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
