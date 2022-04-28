@@ -10,11 +10,6 @@
 <img align="right" alt="we-can-pic" height="200" src="https://cdn-icons-png.flaticon.com/512/1141/1141903.png?w=826">
 </div>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynesiqueira&show_icons=true&theme=omni&count_private=true)
-
-  ![Snake animation](https://github.com/JayneSiqueira/JayneSiqueira/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 
