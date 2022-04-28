@@ -1,12 +1,10 @@
 ### 👋 Olá, me chamo Jayne Siqueira. Sou UX e UI Designer e Desenvolvedora Front-End.
 
-<a href = "mailto:jaynesilvasiqueira208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%#D98977?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jaynesilvasiqueira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-#D98977?style=for-the-badge&logo=linkedin&logoColor=white
-" target="_blank"></a> 
-
 ☕ Habilidades: HTML, CSS, JavaScript.
 
 💼 Ferramentas: VS Code, Figma, Adobe Illustrator, Adobe Photoshop, Notion, Trello, WordPress, Git e GitHub.
+
+<a href="https://www.linkedin.com/in/jaynesilvasiqueira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
 <img align="right" alt="we-can-pic" height="200" src="https://cdn-icons-png.flaticon.com/512/1141/1141903.png?w=826">
