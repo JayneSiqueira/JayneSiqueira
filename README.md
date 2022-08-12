@@ -1,4 +1,4 @@
-👋 Olá, me chamo Jayne Siqueira. Sou Designer Gráfica e Digital.
+👋 Olá, me chamo Jayne Siqueira. Trabalho com Design Gráfico e Digital.
 
 ☕ Habilidades: HTML, CSS, JavaScript.
 
