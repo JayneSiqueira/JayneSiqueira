@@ -1,4 +1,4 @@
-👋 Olá, me chamo Jayne Siqueira. Sou UX e UI Designer e Desenvolvedora Front-End.
+👋 Olá, me chamo Jayne Siqueira. Sou Designer Gráfica e Digital.
 
 ☕ Habilidades: HTML, CSS, JavaScript.
 
